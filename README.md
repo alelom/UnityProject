@@ -2,7 +2,7 @@
 
 After cloning, remember to add the following to the `.git/config` file, **setting the right path to the YAML tool**:
 
-```yaml
+```config
 [merge]
 	tool = unityyamlmerge
 
